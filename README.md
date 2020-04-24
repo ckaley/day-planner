@@ -34,13 +34,24 @@ The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
+## Approach
+
+This was a fairly straight forward project. Working with the momentjs library was fun. It has so many different ways to do things and format output that it took some time to play with it. However, it works fairly well.
+
+The rest of the project required making sure that I could reference teh text area of the task/event based upon the button that was clicked. I solved this but aligning how the ID was defined for both the button and the text area, and then swapping the prefix. It seems to work OK.
+
+The use of local storage followed what we did during class and the last hoemwork assignement.
+
+Overall, a fun project!
+
 ## Review
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
